@@ -12,5 +12,7 @@ go to CRWArchivingCitationsTool (in example cd ./CRWArchivingCitationsTool in li
 npm start
 
 At this stage it will produce json with link to article and array of unarchived citation. Open viewer.html in any browser you like to see all the links in more user readable format. You will need to pick file unarchived-urls.json to use viewer. Done this way for simplicity and not making stuff like HTTP server, and because browsers protect you from opening your files on your machine throwing CORS error. 
+
 Love yourself and stay safe. 
+
 Frog
